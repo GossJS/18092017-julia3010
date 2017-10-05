@@ -1,5 +1,4 @@
 # 18092017
 first express task
 
-Задания по адресу:
-https://kodaktor.ru/g/18092017
+Ссылка на урок по созданию сайта ite45min.ru/courses/7-layout-editing-site
